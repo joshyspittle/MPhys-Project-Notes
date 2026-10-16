@@ -67,12 +67,14 @@
             "id": "ad9b671238db05c5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20261016145212.png"
+                "file": "1. Literature/1.1 FCC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261016145212"
+              "icon": "lucide-file",
+              "title": "1.1 FCC"
             }
           }
         ],
@@ -243,8 +245,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "consolidate-to-pdf:Consolidate vault to PDF": false,
-      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -252,11 +252,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "consolidate-to-pdf:Consolidate vault to PDF": false,
+      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63419fa6874e4ed6",
+  "active": "ad9b671238db05c5",
   "lastOpenFiles": [
+    "Pasted image 20261016145212.png",
     "sync take 3.md",
     "sync test take 2.md",
     "GIT SYNC TEST.md",
@@ -273,7 +276,6 @@
     "3. FCC Tutorials/3.1.md",
     "Pasted image 20261016152415.png",
     "Pasted image 20261016151620.png",
-    "Pasted image 20261016145212.png",
     "0. Overview/0.1 Overview.md",
     "0. Overview/0.2 Initial Ideas.md",
     "Pasted image 20261013162147.png",
@@ -299,7 +301,6 @@
     "Obsidian/0. Overview/0.2 Initial Ideas.md",
     "Obsidian/0. Overview/0.1 Overview.md",
     "1. Literature/3. Software.md",
-    "1. Literature/2. Literature.md",
-    "MPhys Project-ibib_book.md"
+    "1. Literature/2. Literature.md"
   ]
 }
