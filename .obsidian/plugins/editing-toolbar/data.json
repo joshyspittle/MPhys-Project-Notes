@@ -81,6 +81,11 @@
       "icon": "underline-glyph"
     },
     {
+      "id": "editing-toolbar:custom-custom-underline",
+      "name": "Github Underline",
+      "icon": "underline"
+    },
+    {
       "id": "editing-toolbar:toggle-highlight",
       "name": "Highlight",
       "icon": "highlight-glyph"
@@ -421,7 +426,18 @@
   "horizontalPosition": 0,
   "verticalPosition": 0,
   "formatBrushes": {},
-  "customCommands": [],
+  "customCommands": [
+    {
+      "id": "custom-custom-underline",
+      "name": "Underline",
+      "prefix": "<ins>",
+      "suffix": "</ins>",
+      "char": 0,
+      "line": 0,
+      "islinehead": false,
+      "icon": "underline"
+    }
+  ],
   "viewTypeSettings": {},
   "appearanceByStyle": {
     "top": {
