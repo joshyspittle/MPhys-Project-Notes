@@ -81,14 +81,12 @@
             "id": "ad9b671238db05c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "GIT SYNC TEST.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20261016145212.png"
               },
-              "icon": "lucide-file",
-              "title": "GIT SYNC TEST"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261016145212"
             }
           }
         ],
