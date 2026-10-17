@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d5220221baf091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Software/2.1 Terminal commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1 Terminal commands"
-            }
-          },
-          {
-            "id": "9b197ad1a65253f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. FCC Tutorials/3.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1"
-            }
-          },
-          {
-            "id": "4bbdd2b0e332c30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. FCC Tutorials/3.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.2"
-            }
-          },
-          {
             "id": "ad9b671238db05c5",
             "type": "leaf",
             "state": {
@@ -62,9 +20,22 @@
               "icon": "lucide-file",
               "title": "1.2 Tagging Algorithms"
             }
+          },
+          {
+            "id": "454dd6f8e9ad0755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Literature/1.1 FCC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 FCC"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,10 +218,14 @@
   },
   "active": "ad9b671238db05c5",
   "lastOpenFiles": [
-    "1. Literature/Images/Pasted image 20261017095057.png",
-    "1. Literature/Images/Pasted image 20261017095038.png",
-    "1. Literature/1.1 FCC.md",
+    "1. Literature/Images/Bedeschi22_Binary_Discriminant.png",
     "1. Literature/1.2 Tagging Algorithms.md",
+    "1. Literature/Images/Bedeschi22_jet_tagging_performance.png",
+    "1. Literature/1.1 FCC.md",
+    "1. Literature/Images/Bedeschi22_Features.png",
+    "1. Literature/Images/Albert22_Cuts.png",
+    "1. Literature/Images/Kaon_Proportions_and_leading_momentum.png",
+    "1. Literature/Images/Pasted image 20261017095038.png",
     "1. Literature/Images/Jet_Flavour_variable.png",
     "0. Overview/0.1 Overview.md",
     "1. Literature/Images/ECFA_strange_tagging_results.png",
@@ -258,13 +233,8 @@
     "1. Literature/1.3 Simulation Software.md",
     "2. Software/2.1 Terminal commands.md",
     "3. FCC Tutorials/Images/strangeorcharm_candidate_cuts.png",
-    "3. FCC Tutorials/Images/charm_candidate_cuts.png",
-    "3. FCC Tutorials/Images/dijet_invariant_mass.png",
-    "3. FCC Tutorials/Images/strange_candidate_cuts.png",
     "3. FCC Tutorials/3.3 Strange and Charm Experimentation.md",
     "3. FCC Tutorials/Images",
-    "3. FCC Tutorials/Images/initial_jet cuts.png",
-    "1. Literature/Images/FCC_strange_tagging_feature_ablation.png",
     "1. Literature/Images",
     "sync take 3.md",
     "sync test take 2.md",
