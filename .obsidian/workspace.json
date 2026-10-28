@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Machine Learning/4.1 Overview.md",
+                "file": "4. Machine Learning/4.3 Weaver - Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Overview"
+              "title": "4.3 Weaver - Training"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8a24706b3179fdb",
@@ -219,11 +218,14 @@
   },
   "active": "454dd6f8e9ad0755",
   "lastOpenFiles": [
-    "4. Machine Learning/Images/Pasted image 20261028095705.png",
-    "4. Machine Learning/Images",
-    "4. Machine Learning/4.3 Weaver.md",
-    "4. Machine Learning/4.2 FCCAnalysis.md",
+    "4. Machine Learning/4.2 FCCAnalysis - Preparation.md",
+    "4. Machine Learning/4.3 Weaver - Training.md",
+    "4. Machine Learning/Images/Pasted image 20261028125453.png",
     "4. Machine Learning/4.1 Overview.md",
+    "4. Machine Learning/4.4 FCCAnalysis - Inference and Evaluation.md",
+    "1. Literature/Images/Bedeschi22_Features.png",
+    "4. Machine Learning/Images/Bedeschi22_Features.png",
+    "4. Machine Learning/Images",
     "1. Literature/1.3 Jet Clustering Algorithms.md",
     "Untitled",
     "2. Software/2.1 Terminal commands.md",
@@ -241,9 +243,6 @@
     "1. Literature/Images/Liang24_upper_limits.png",
     "1. Literature/Images/Blekman25_results.png",
     "1. Literature/Images/Blekman25_more_features.png",
-    "1. Literature/Images/Blekman25_features.png",
-    "1. Literature/Images/Bedeschi22_Binary_Discriminant.png",
-    "1. Literature/Images/Bedeschi22_jet_tagging_performance.png",
     "0. Overview/0.1 Overview.md",
     "3. FCC Tutorials/3.3 Strange and Charm Experimentation.md",
     "3. FCC Tutorials/Images",
@@ -263,7 +262,6 @@
     "1. Literature/1.3 Simulations.md",
     "Obsidian/2. Software/2.1 Terminal commands.md",
     "Obsidian/2. Software/2.2 ROOT files.md",
-    "Obsidian/1. Literature/1.3 Simulations.md",
-    "Obsidian/1. Literature/1.2 Tagging Algorithms.md"
+    "Obsidian/1. Literature/1.3 Simulations.md"
   ]
 }
