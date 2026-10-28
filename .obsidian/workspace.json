@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Machine Learning/4.3 Weaver - Training.md",
+                "file": "4. Machine Learning/4.1 Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 Weaver - Training"
+              "title": "4.1 Overview"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "454dd6f8e9ad0755",
   "lastOpenFiles": [
-    "4. Machine Learning/4.2 FCCAnalysis - Preparation.md",
     "4. Machine Learning/4.3 Weaver - Training.md",
+    "4. Machine Learning/4.2 FCCAnalysis - Preparation.md",
     "4. Machine Learning/Images/Pasted image 20261028125453.png",
     "4. Machine Learning/4.1 Overview.md",
     "4. Machine Learning/4.4 FCCAnalysis - Inference and Evaluation.md",
