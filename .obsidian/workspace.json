@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Machine Learning/4.5 Training my own model.md",
+                "file": "2. Software/2.1 Terminal commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.5 Training my own model"
+              "title": "2.1 Terminal commands"
             }
           }
         ]
@@ -203,8 +203,13 @@
   },
   "active": "e04d035586e33501",
   "lastOpenFiles": [
-    "2. Software/2.1 Terminal commands.md",
+    "2. Software/2.2 Useful links.md",
     "4. Machine Learning/4.5 Training my own model.md",
+    "4. Machine Learning/Images/prepocess_auto_config.png",
+    "4. Machine Learning/Images/standardisation_calculation.png",
+    "4. Machine Learning/Images/standardisation_preprocessing.png",
+    "4. Machine Learning/Images/standardisation_formatting.png",
+    "2. Software/2.1 Terminal commands.md",
     "4. Machine Learning/Images/atan2_fix.png",
     "4. Machine Learning/Images/jetconstituentutils_h_addition.png",
     "4. Machine Learning/Images/jetconstituentsutils_cc_addition.png",
@@ -216,11 +221,7 @@
     "4. Machine Learning/4.4 FCCAnalysis - Inference and Evaluation.md",
     "4. Machine Learning/4.1 Overview.md",
     "3. FCC Tutorials/3.1.md",
-    "3. FCC Tutorials/Images/Recoilmass+dijet invariant_mass.png",
-    "3. FCC Tutorials/Images/Zmumu_recoil_m+cut_flow.png",
-    "3. FCC Tutorials/Images/Zmumu_p+Zmumu_m.png",
     "__vault_pdf_export_source.md",
-    "3. FCC Tutorials/Images/Pasted image 20261029132045.png",
     "3. FCC Tutorials/3.2.md",
     "1. Literature/1.3 Jet Clustering Algorithms.md",
     "4. Machine Learning/Images",
@@ -229,7 +230,6 @@
     "1. Literature/1.2 Strange Tagging Algorithms.md",
     "2. Software/2.4 Delphes.md",
     "2. Software/2.3 ROOT files.md",
-    "2. Software/2.2 Useful links.md",
     "1. Literature/1.4 Simulation Software.md",
     "1. Literature/1.1 FCC.md",
     "0. Overview/0.1 Overview.md",
