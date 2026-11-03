@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Machine Learning/4.5 Training my own model.md",
+                "file": "2. Software/2.1 Terminal commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.5 Training my own model"
+              "title": "2.1 Terminal commands"
             }
           }
         ]
@@ -203,9 +203,9 @@
   },
   "active": "e04d035586e33501",
   "lastOpenFiles": [
+    "4. Machine Learning/4.5 Training my own model.md",
     "2. Software/2.1 Terminal commands.md",
     "2. Software/2.2 Useful links.md",
-    "4. Machine Learning/4.5 Training my own model.md",
     "4. Machine Learning/Images/prepocess_auto_config.png",
     "4. Machine Learning/Images/standardisation_calculation.png",
     "4. Machine Learning/Images/standardisation_preprocessing.png",
