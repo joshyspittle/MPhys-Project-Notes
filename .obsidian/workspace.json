@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8a24706b3179fdb",
@@ -204,16 +203,17 @@
   },
   "active": "7a23111afc2711b9",
   "lastOpenFiles": [
+    "1. Literature/1.2 Strange Tagging Algorithms.md",
+    "1. Literature/1.1 FCC.md",
+    "2. Software/2.1 Terminal commands.md",
     "4. Machine Learning/4.5 Training my own model.md",
     "4. Machine Learning/4.3 Weaver - Training.md",
     "4. Machine Learning/4.2 FCCAnalysis - Preparation.md",
     "4. Machine Learning/4.1 Overview.md",
     "Untitled 1.base",
     "Untitled.base",
-    "2. Software/2.1 Terminal commands.md",
     "Notes",
     "New folder",
-    "1. Literature/1.2 Strange Tagging Algorithms.md",
     "2. Software/2.4 Delphes.md",
     "2. Software/2.3 ROOT files.md",
     "2. Software/2.2 Useful links.md",
@@ -236,7 +236,6 @@
     "Untitled",
     "4. Machine Learning",
     "1. Literature/1.4 Simulation Software.md",
-    "1. Literature/1.1 FCC.md",
     "0. Overview/0.1 Overview.md",
     "3. FCC Tutorials/3.3 Strange and Charm Experimentation.md",
     "3. FCC Tutorials/Images",
