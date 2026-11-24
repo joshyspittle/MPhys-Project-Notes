@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Machine Learning - Particle Transformer/4.2 Embedding.md",
+                "file": "4. Machine Learning - Learning/4.3 Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Embedding"
+              "title": "4.3 Transformers"
             }
           }
         ]
@@ -203,12 +203,13 @@
   },
   "active": "7a23111afc2711b9",
   "lastOpenFiles": [
-    "5. Machine Learning - Particle Transformer/Images/Pasted image 20261124155055.png",
-    "5. Machine Learning - Particle Transformer/Images/{8DFDD644-D87B-47A5-941D-664C2C83B022}.png",
-    "5. Machine Learning - Particle Transformer/Images/Linear_visualisation.png",
     "4. Machine Learning - Learning/4.2 Embedding.md",
-    "5. Machine Learning - Particle Transformer/Images/Linear.png",
+    "4. Machine Learning - Learning/4.3 Transformers.md",
+    "5. Machine Learning - Particle Transformer/Images/conv1d.png",
     "5. Machine Learning - Particle Transformer/4.2 Embedding.md",
+    "5. Machine Learning - Particle Transformer/Images/Pasted image 20261124155055.png",
+    "5. Machine Learning - Particle Transformer/Images/Linear_visualisation.png",
+    "5. Machine Learning - Particle Transformer/Images/Linear.png",
     "5. Machine Learning - Particle Transformer/Images/Linear_description.png",
     "5. Machine Learning - Particle Transformer/Images/LayerNorm.png",
     "5. Machine Learning - Particle Transformer/Images",
@@ -219,9 +220,7 @@
     "5. Machine Learning - Particle Transformer/Images/word_embedding_example.png",
     "5. Machine Learning - Particle Transformer/Images/word_embedding.png",
     "5. Machine Learning - Particle Transformer/Images/embedding_params.png",
-    "5. Machine Learning - Particle Transformer/Images/activation_func_comp.png",
     "5. Machine Learning - Particle Transformer",
-    "4. Machine Learning - Learning/4.3 Transformers.md",
     "4. Machine Learning - Learning/Images",
     "2. Software/2.1 Terminal commands.md",
     "6. Machine Learning - Doing/5.4 FCCAnalysis - Inference and Evaluation.md",
