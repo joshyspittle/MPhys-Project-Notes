@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Machine Learning - Learning/4.4 Multi-layer perceptron.md",
+                "file": "4. Machine Learning - Learning/4.7 Cross entropy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4 Multi-layer perceptron"
+              "title": "4.7 Cross entropy"
             }
           }
         ]
@@ -203,11 +203,18 @@
   },
   "active": "7a23111afc2711b9",
   "lastOpenFiles": [
-    "4. Machine Learning - Learning/Images/mlp.png",
-    "5. Machine Learning - Particle Transformer/4.5 Softmax.md",
-    "5. Machine Learning - Particle Transformer/4.4 MLP.md",
+    "5. Machine Learning - Particle Transformer/4.7 Cross entropy.md",
+    "4. Machine Learning - Learning/4.7 Cross entropy.md",
+    "4. Machine Learning - Learning/4.6 Softmax.md",
+    "4. Machine Learning - Learning/4.5 Classification.md",
     "4. Machine Learning - Learning/4.4 Multi-layer perceptron.md",
-    "4. Machine Learning - Learning/4.5 Softmax.md",
+    "4. Machine Learning - Learning/4.2 Embedding.md",
+    "4. Machine Learning - Learning/4.1 Foundations.md",
+    "5. Machine Learning - Particle Transformer/4.6 Softmax.md",
+    "5. Machine Learning - Particle Transformer/4.5 Classification.md",
+    "5. Machine Learning - Particle Transformer/4.4 MLP.md",
+    "5. Machine Learning - Particle Transformer/4.3 Attention.md",
+    "4. Machine Learning - Learning/Images/mlp.png",
     "4. Machine Learning - Learning/4.3 Attention.md",
     "4. Machine Learning - Learning/Images/multi_ouptut_matrix.png",
     "4. Machine Learning - Learning/Images/multi_4.png",
@@ -218,13 +225,9 @@
     "4. Machine Learning - Learning/Images/attention_head.png",
     "4. Machine Learning - Learning/Images/value_example.png",
     "4. Machine Learning - Learning/Images/value_matrix.png",
-    "4. Machine Learning - Learning/Images/attention_eqn.png",
-    "5. Machine Learning - Particle Transformer/4.3 Attention.md",
     "5. Machine Learning - Particle Transformer/4.2 Embedding.md",
-    "4. Machine Learning - Learning/4.2 Embedding.md",
     "5. Machine Learning - Particle Transformer/Images",
     "5. Machine Learning - Particle Transformer/4.1 Foundations.md",
-    "4. Machine Learning - Learning/4.1 Foundations.md",
     "5. Machine Learning - Particle Transformer",
     "4. Machine Learning - Learning/Images",
     "2. Software/2.1 Terminal commands.md",
@@ -244,9 +247,6 @@
     "2. Software/2.3 ROOT files.md",
     "2. Software/2.2 Useful links.md",
     "3. FCC Tutorials/3.1.md",
-    "__vault_pdf_export_source.md",
-    "3. FCC Tutorials/3.2.md",
-    "1. Literature/1.3 Jet Clustering Algorithms.md",
     "6. Machine Learning - Doing/Images",
     "6. Machine Learning - Doing"
   ]
